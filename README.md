@@ -1,16 +1,33 @@
-## Hi there 👋
+# Михаил Русских
 
-<!--
-**Superdeazi2/Superdeazi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer
 
-Here are some ideas to get you started:
+Коммерческий опыт разработки веб-проектов на React, JavaScript, HTML, CSS и Tailwind CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Стек
+
+* React
+* JavaScript
+* TypeScript
+* Tailwind CSS
+* HTML5
+* CSS3
+* Zustand
+* Git
+* Ruby on Rails
+
+### Проекты
+
+- Protocol — игровой веб-сайт на React + Vite
+
+- Коммерческие сайты для бизнеса
+
+- Интерфейсы управления устройствами
+
+### Контакты
+
+Email: [deazinew@mail.ru](mailto:deazinew@mail.ru)
+
+GitHub: https://github.com/Superdeazi2
+
+Telegram: @SuperDeazi
