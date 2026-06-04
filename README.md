@@ -28,6 +28,4 @@ Frontend Developer
 
 Email: [deazinew@mail.ru](mailto:deazinew@mail.ru)
 
-GitHub: https://github.com/Superdeazi2
-
 Telegram: @SuperDeazi
